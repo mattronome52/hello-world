@@ -1,4 +1,6 @@
 # hello-world
-checking out branching
+second test of branching.
 
-The entire project is at github. I wonder how this works if you clone the repo and make changes locally.
+The entire project is at github. Je me demande comment ça marche avec un 'repo' locale.
+
+new line
